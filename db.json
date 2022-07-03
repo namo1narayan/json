@@ -5,7 +5,7 @@
       "Asset Class": "hello",
       "Order Submitted": "02-07-2022",
       "Instrument Name": "Piano",
-      "Instrument ID": 3,
+      "Instrument ID": "SOUND",
       "Purchase Type": "SELL",
       "Trade Quantity": 15,
       "Trade Price": 10000
