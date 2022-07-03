@@ -3,10 +3,10 @@
     {
       "Order ID": 1,
       "Asset Class": "hello",
-      "Order Submitted": 02-07-2022,
-      "Instrument Name": Piano,
-      "Instrument ID": SOUND,
-      "Purchase Type": SELL,
+      "Order Submitted": "02-07-2022",
+      "Instrument Name": "Piano",
+      "Instrument ID": 3,
+      "Purchase Type": "SELL",
       "Trade Quantity": 15,
       "Trade Price": 10000
     }
